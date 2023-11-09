@@ -69,7 +69,7 @@ Elementary Programming in C, Building Dynamic Websites, Designing Web Sites in D
     - Administrator. Base
     - Developer Bitrix Framework
 + **RS Schools Course**\
-    -JavaScript/Front-end. Stage 0
+    - JavaScript/Front-end. Stage 0
     
 *****
 

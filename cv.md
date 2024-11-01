@@ -66,3 +66,24 @@ I have experience working with popular CMS in the field of SEO website promotion
 + [Coffee-House](https://rolling-scopes-school.github.io/nadin21-JSFE2023Q4/coffee-house/)
 + [Hangman](https://rolling-scopes-school.github.io/nadin21-JSFE2023Q4/hangman/)
 + [Nonograms](https://rolling-scopes-school.github.io/nadin21-JSFE2023Q4/nonograms/)
+
+### Education
+
++ **Tambov state technical university**\
+computer science-economist, specialty "Applied computer science in economics"
++ **APTECH-TambovSTU**\
+Elementary Programming in C, Building Dynamic Websites, Designing Web Sites in Dreamweaver, RDBMS and Data Management, Working with SQL Server Database Objects, Project (Dreamweaver).
++ **Online training courses(1C-Bitrix)**
+    - Content manager
+    - Installation and setup
+    - Administrator. Modules
+    - Administrator. Base
+    - Developer Bitrix Framework
++ **RS Schools Course**
+    - JavaScript/Front-end. Stage 0
+    - JavaScript/Front-end. Stage 1
+    
+*****
+
+### English
+A1
